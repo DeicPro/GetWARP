@@ -8,7 +8,7 @@
 1. Open terminal or Termux.
 2. Install Git and Python
 ```
-apt install install git python
+apt install git python
 ```
 3. Install requests library
 ```
